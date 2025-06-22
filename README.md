@@ -2,7 +2,8 @@
 
 QuizzyPop is a fun, interactive quiz game built with HTML, JavaScript, and Tailwind CSS. Test your knowledge across multiple categories with instant feedback, timer challenges, and score tracking.
 
-![QuizzyPop Screenshot]image.png
+![QuizzyPop Screenshot]![image](https://github.com/user-attachments/assets/d083e27a-8618-4db2-a177-44ee35af3951)
+
 
 ## Features
 
